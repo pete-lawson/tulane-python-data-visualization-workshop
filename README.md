@@ -14,5 +14,9 @@ Workshop materials and data visualization resources for the Introduction to Pyth
 3. [References](#references)
 4. [License](#license)
 
-[![Color Advice](https://www.kennethmoreland.com/color-advice/smooth-cool-warm/smooth-cool-warm-3d.png)](https://www.kennethmoreland.com/color-advice/)
 
+<a name="color"/>
+
+## Color in Data Visualization
+### Choosing the right colormap for visualization
+[![Color Advice](https://www.kennethmoreland.com/color-advice/smooth-cool-warm/smooth-cool-warm-3d.png)](https://www.kennethmoreland.com/color-advice/)
