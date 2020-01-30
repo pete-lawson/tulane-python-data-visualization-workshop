@@ -19,8 +19,7 @@ Workshop materials and data visualization resources for the Introduction to Pyth
 
 ## Color in Data Visualization
 
-The essential tool for selecting color maps is ![ColorBrewer](colorbrewer2.org)
-
-[![Color Brewer](ColorBrewer.png)](https://colorbrewer2.org)
+The essential tool for selecting color maps is [ColorBrewer](colorbrewer2.org)
+[![Color Brewer](https://github.com/pete-lawson/tulane-python-data-visualization-workshop/blob/master/ColorBrewer.png)](www.colorbrewer2.org)
 ### Choosing the right colormap for visualization
 [![Color Advice](https://www.kennethmoreland.com/color-advice/smooth-cool-warm/smooth-cool-warm-3d.png)](https://www.kennethmoreland.com/color-advice/)
