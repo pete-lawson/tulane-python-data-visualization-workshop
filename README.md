@@ -18,6 +18,7 @@ Workshop materials and data visualization resources for the Introduction to Pyth
 
 ## Workshop Review
 
+The first half of the workshop, including the introduction to Python, as well as plotting using the `matplotlib` library, is primarily based on the Software Carpentries workshop: [Plotting and Programming in Python.](http://swcarpentry.github.io/python-novice-gapminder/)
 <a name="color"/>
 
 ## Color in Data Visualization
