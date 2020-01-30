@@ -40,7 +40,7 @@ These notebooks are rendered natively in Github so you can share them with other
 To see a list of keyboard shortcuts, in a running Jupyter notebook first enter command mode by hitting `esc`. Then press the `h` key to display the help menu, which will display common operations and their corresponding shortcuts. These shortcuts are operating system dependent, so if you call the `h` prompt from Windows your shortcuts will look different than if you call `h` from a Mac.
 
 ### Jupyter Notebook Plugins
-Jupyter is extensible, that is you can add plugins to it in order to enhance its functionality. In the 
+Jupyter is extensible, that is you can add extensions to it in order to enhance its functionality. One such extension is the [RISE](https://rise.readthedocs.io/en/maint-5.6/) extension. __RISE__ stands for __Reveal.js -- Jupyter/IPython Slideshow Extension__. This extension allows you to toggle between a normal notebook instance and an interactive presentation mode.  
 [![Reveal.js](https://miro.medium.com/max/500/0*7l6Q6WgP4_DN_VLI.png)](https://rise.readthedocs.io/en/maint-5.6/)
 ## Color in Data Visualization
 
