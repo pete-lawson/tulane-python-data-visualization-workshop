@@ -41,6 +41,7 @@ To see a list of keyboard shortcuts, in a running Jupyter notebook first enter c
 
 ### Jupyter Notebook Plugins
 Jupyter is extensible, that is you can add extensions to it in order to enhance its functionality. One such extension is the [RISE](https://rise.readthedocs.io/en/maint-5.6/) extension. __RISE__ stands for __Reveal.js -- Jupyter/IPython Slideshow Extension__. This extension allows you to toggle between a normal notebook instance and an interactive presentation mode. The introduction to Data Visualization presentation at the beginning of the workshop was simply a Jupyter Notebook in RISE mode. 
+
 [![Reveal.js](https://miro.medium.com/max/500/0*7l6Q6WgP4_DN_VLI.png)](https://rise.readthedocs.io/en/maint-5.6/)
 
 #### Installing RISE
