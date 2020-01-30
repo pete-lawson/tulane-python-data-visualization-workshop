@@ -22,7 +22,7 @@ The first half of the workshop, including the introduction to Python, as well as
 
 For more background in developing foundational coding and data science skills please refer to other lessons available through the Software Carpentries: https://software-carpentry.org/lessons/
 
-[![Software Carpentries](carpentries.png)](https://software-carpentry.org/lessons/)
+[![Software Carpentries](carpentries.png?v=4&s=200)](https://software-carpentry.org/lessons/)
 <a name="color"/>
 
 ## Color in Data Visualization
