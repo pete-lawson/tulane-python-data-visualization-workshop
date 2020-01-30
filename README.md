@@ -9,6 +9,7 @@ Workshop materials and data visualization resources for the Introduction to Pyth
 ## Table of Contents
 
 1. [Workshop Review](#review)
+1. [Jupyter Notebook References](#jupyter)
 2. [Gathering and processing data with Python](#data)
 3. [Color in Data Visualization](#color)
 4. [References](#references)
@@ -25,6 +26,10 @@ For more background in developing foundational coding and data science skills pl
 <a href="https://software-carpentry.org/lessons/">
          <img alt="Software Carpentry Logo" src="carpentries.png"
          width=450">
+
+<a name="jupyter"/>
+
+## Jupyter Notebook References
 
 <a name="color"/>
 
