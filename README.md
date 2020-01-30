@@ -8,11 +8,15 @@ Workshop materials and data visualization resources for the Introduction to Pyth
 
 ## Table of Contents
 
-1. [Gathering and processing data with Python](#data)
-2. [Color in Data Visualization](#color)
-3. [References](#references)
-4. [License](#license)
+1. [Workshop Review](#review)
+2. [Gathering and processing data with Python](#data)
+3. [Color in Data Visualization](#color)
+4. [References](#references)
+5. [License](#license)
 
+<a name="review"/>
+
+## Workshop Review
 
 <a name="color"/>
 
