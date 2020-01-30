@@ -24,7 +24,7 @@ For more background in developing foundational coding and data science skills pl
 
 <a href="https://software-carpentry.org/lessons/">
          <img alt="Software Carpentry Logo" src="carpentries.png"
-         width=150">
+         width=450">
 
 <a name="color"/>
 
