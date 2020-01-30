@@ -19,7 +19,7 @@ Workshop materials and data visualization resources for the Introduction to Pyth
 
 ## Color in Data Visualization
 
-The essential tool for selecting color maps is [ColorBrewer](www.colorbrewer2.org)
+The essential tool for selecting color maps is [ColorBrewer](http://www.colorbrewer2.org)
 
 [![Color Brewer](ColorBrewer.png)](www.colorbrewer2.org)
 
