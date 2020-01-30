@@ -4,7 +4,7 @@ Workshop materials and data visualization resources for the Introduction to Pyth
 [![License: MIT](https://img.shields.io/github/license/pete-lawson/tulane-python-data-visualization-workshop)](https://opensource.org/licenses/MIT)
 [![GitHub Follow](https://img.shields.io/github/followers/pete-lawson)](https://github.com/pete-lawson)
 
-**Python package dependencies:** `numpy` `pandas` `jupyter` `matplotlib` `seaborn` `plotly`. If you have installed Python through the Anaconda Python distribution then all of these packages will be installed. If a Python package is not installed run `conda install package-name` in your terminal. 
+**Python package dependencies:** `numpy` `pandas` `jupyter` `matplotlib` `seaborn` `plotly`. If you have installed Python through the Anaconda Python distribution then all of these packages will be installed except `plotly`. To install `plotly` run `conda install package-name` in your terminal. 
 
 ## Table of Contents
 
