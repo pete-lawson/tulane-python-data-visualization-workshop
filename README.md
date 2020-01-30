@@ -9,7 +9,7 @@ Workshop materials and data visualization resources for the Introduction to Pyth
 ## Table of Contents
 
 1. [Workshop Review](#review)
-1. [Jupyter Notebook References](#jupyter)
+1. [Jupyter Notebook Resources](#jupyter)
 2. [Gathering and processing data with Python](#data)
 3. [Color in Data Visualization](#color)
 4. [References](#references)
