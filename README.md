@@ -30,7 +30,10 @@ For more background in developing foundational coding and data science skills pl
 <a name="jupyter"/>
 
 ## Jupyter Notebook References
+The [Jupter Notebook](https://jupyter.org/index.html) is a an open-source, web-based application that can be run locally, or shared online, and allows you to create and share documents (notebooks) that contain live code, visualizations, narrative text, and mathematical equations. They provide a wonderful way of documenting and sharing your research with the world. 
 
+### Sharing your Jupter Notebook. 
+These notebooks are rendered natively in Github so you can share them with others.
 <a name="color"/>
 
 ## Color in Data Visualization
