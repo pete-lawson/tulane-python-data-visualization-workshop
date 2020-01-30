@@ -1,5 +1,5 @@
 # Tulane Introduction to Python for Data Visualization Workshop Resources
-Workshop materials and data visualization resources for the Introduction to Python for Data Visualization Workshop at Tulane University Howard-Tilton Memorial Library
+Workshop materials and data visualization resources for the __Introduction to Python for Data Visualization Workshop at Tulane University Howard-Tilton Memorial Library
 
 [![License: MIT](https://img.shields.io/github/license/pete-lawson/tulane-python-data-visualization-workshop)](https://opensource.org/licenses/MIT)
 [![GitHub Follow](https://img.shields.io/github/followers/pete-lawson)](https://github.com/pete-lawson)
@@ -39,6 +39,8 @@ These notebooks are rendered natively in Github so you can share them with other
 ### Jupyter Notebook Shortcuts
 To see a list of keyboard shortcuts, in a running Jupyter notebook first enter command mode by hitting `esc`. Then press the `h` key to display the help menu, which will display common operations and their corresponding shortcuts. These shortcuts are operating system dependent, so if you call the `h` prompt from Windows your shortcuts will look different than if you call `h` from a Mac.
 
+### Jupyter Notebook Plugins
+Jupyter is extensible, that is you can add plugins to it in order to enhance its functionality. In the 
 ## Color in Data Visualization
 
 The essential tool for selecting color maps is [ColorBrewer](http://www.colorbrewer2.org)
