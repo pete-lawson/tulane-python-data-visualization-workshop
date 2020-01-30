@@ -41,6 +41,7 @@ To see a list of keyboard shortcuts, in a running Jupyter notebook first enter c
 
 ### Jupyter Notebook Plugins
 Jupyter is extensible, that is you can add plugins to it in order to enhance its functionality. In the 
+[![Reveal.js](https://miro.medium.com/max/500/0*7l6Q6WgP4_DN_VLI.png)](https://rise.readthedocs.io/en/maint-5.6/)
 ## Color in Data Visualization
 
 The essential tool for selecting color maps is [ColorBrewer](http://www.colorbrewer2.org)
