@@ -46,6 +46,7 @@ Jupyter is extensible, that is you can add extensions to it in order to enhance 
 
 #### Installing RISE
 To install RISE run `conda install -c conda-forge rise`. You may notice some additonal commands then the normal `conda install some-package`. This is because the extension we want to install (RISE) is not an offical extension, but instead developed by the community. To install extensions developed by the community we need to specify the community built distribution channel `conda-forge` using the `-c` argument to indicate that we are using an alternative package channel. Once installed, to enable RISE mode while in a running Jupyter Notebook instance use the keyboard shortcut `Alt-r`. 
+
 ## Color in Data Visualization
 
 The essential tool for selecting color maps is [ColorBrewer](http://www.colorbrewer2.org)
