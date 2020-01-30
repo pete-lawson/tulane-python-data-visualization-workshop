@@ -21,7 +21,6 @@ Workshop materials and data visualization resources for the Introduction to Pyth
 
 The essential tool for selecting color maps is ![ColorBrewer](colorbrewer2.org)
 
-[![Color Brewer](./ColorBrewer1.png)](colorbrewer2.org)
+[![Color Brewer](ColorBrewer1.png)](https://colorbrewer2.org)
 ### Choosing the right colormap for visualization
-Color 
 [![Color Advice](https://www.kennethmoreland.com/color-advice/smooth-cool-warm/smooth-cool-warm-3d.png)](https://www.kennethmoreland.com/color-advice/)
