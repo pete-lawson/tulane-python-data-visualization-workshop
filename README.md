@@ -35,7 +35,6 @@ The [Jupter Notebook](https://jupyter.org/index.html) is a an open-source, web-b
 
 ### Sharing your Jupter Notebook. 
 These notebooks are rendered natively in Github so you can share them with others. They can be managed under versioning control using Git, and shared on [GitHub](https://github.com/), a cloud-based hosting service that allows you to manage and share your Git repositories. For more information on versioning control and how to create a Git project and share it with the world follow the [Software Carpentries tutorial on Version Control with Git and Github](http://swcarpentry.github.io/git-novice/).
-<a name="color"/>
 
 ### Jupyter Notebook Shortcuts
 To see a list of keyboard shortcuts, in a running Jupyter notebook first enter command mode by hitting `esc`. Then press the `h` key to display the help menu, which will display common operations and their corresponding shortcuts. These shortcuts are operating system dependent, so if you call the `h` prompt from Windows your shortcuts will look different than if you call `h` from a Mac.
