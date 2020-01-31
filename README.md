@@ -63,6 +63,6 @@ When working in scientific visualization, pseudocoloring 2D and 3D scalar fields
 
 Kenneth Moreland, PhD at Sandia National Laboratories, offers some useful advice on choosing the appropriate color map for your scientific visualization: 
 
-[Color Map Advice for Scientific Visualization](kennethmoreland.com/color-advice/)
+[Color Map Advice for Scientific Visualization](https://www.kennethmoreland.com/color-advice/)
 
 [![Color Advice](https://www.kennethmoreland.com/color-advice/smooth-cool-warm/smooth-cool-warm-3d.png)](https://www.kennethmoreland.com/color-advice/)
