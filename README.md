@@ -68,4 +68,5 @@ Kenneth Moreland, PhD at Sandia National Laboratories, offers some useful advice
 [![Color Advice](https://www.kennethmoreland.com/color-advice/smooth-cool-warm/smooth-cool-warm-3d.png)](https://www.kennethmoreland.com/color-advice/)
 
 <a name="resources"/>
+
 ## Additional Data Visualization Resources
