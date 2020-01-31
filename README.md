@@ -28,6 +28,7 @@ For more background in developing foundational coding and data science skills pl
 
 <a name="jupyter"/>
 
+
 For a review of the second half of the workshop, on plotting in Python with the `seaborn` and `plotly` libraries review the [Data Visualization in Python with Seaborn and Plotly Jupyter Notebook](https://github.com/pete-lawson/tulane-python-data-visualization-workshop/blob/master/data-visualization-in-python-with-seaborn-and-plotly.ipynb) in this Github repository. You can also download the notebook for use on your own computer. 
 
 ## Jupyter Notebook Resources 
