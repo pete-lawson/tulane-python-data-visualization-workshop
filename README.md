@@ -49,6 +49,7 @@ Jupyter is extensible, that is you can add extensions to it in order to enhance 
 To install RISE run `conda install -c conda-forge rise`. You may notice some additonal commands then the normal `conda install some-package`. This is because the extension we want to install (RISE) is not an offical extension, but instead developed by the community. To install extensions developed by the community we need to specify the community built distribution channel `conda-forge` using the `-c` argument to indicate that we are using an alternative package channel. Once installed, to enable RISE mode while in a running Jupyter Notebook instance use the keyboard shortcut `Alt-r`. 
 
 <a name="color"/>
+
 ## Color in Data Visualization
 
 The role of color in data visualization is profound. Choosing the right colors for your data visualization is essential. Some considerations for appropriate color choice include accessibility (ensuring colors are distinguishable, even to those with colorblindness), perceptual uniformity, and format (will the colors be differentiable even when printed in grayscale).  
