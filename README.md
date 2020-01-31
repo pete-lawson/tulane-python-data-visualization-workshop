@@ -78,6 +78,7 @@ This list is evolving, so check back to see if new resources have been added.
 
 A library of data visualization types. Sometimes you just need inspiration: [Data Viz Project](https://datavizproject.com/)
 
+Duke University offers an excellent [libguide on Data Visualization](https://guides.library.duke.edu/c.php?g=289678&p=1930713) which contains a list of tools for data visualization, as well as taxonomy of visualization types. 
 ### Books
 
 __The Visual Display of Quantitative Information - Edward Tufte__ 
