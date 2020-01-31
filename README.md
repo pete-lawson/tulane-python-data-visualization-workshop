@@ -72,8 +72,19 @@ Kenneth Moreland, PhD at Sandia National Laboratories, offers some useful advice
 
 ## Additional Data Visualization Resources
 
+This list is evolving, so check back to see if new resources have been added. 
+
 ### Websites
 
 A library of data visualization types. Sometimes you just need inspiration: [Data Viz Project](https://datavizproject.com/)
 
 ### Books
+
+__The Visual Display of Quantitative Information - Edward Tufte__ 
+The classic book on data visualization, sometimes polarizing and opinionated, but a classic nonetheless and worth reading.
+![The Visual Display of Quantitative Information](https://images-na.ssl-images-amazon.com/images/I/41IXJO4Mk6L.jpg)
+
+
+__Visualizing Data - William Cleveland__ 
+A rigorous text on graphical methods for the display of statistical information. This book is a must read for any scientist attempting to effectively and accurately communicate data using visualizations.
+![Visualizing Data](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/9634/9780963488404.jpg)
