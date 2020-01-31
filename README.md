@@ -9,11 +9,10 @@ Workshop materials and data visualization resources for the __Introduction to Py
 ## Table of Contents
 
 1. [Workshop Review](#review)
-1. [Jupyter Notebook Resources](#jupyter)
-2. [Gathering and processing data with Python](#data)
-3. [Color in Data Visualization](#color)
-4. [References](#references)
-5. [License](#license)
+2. [Jupyter Notebook Resources](#jupyter)
+3. [Gathering and processing data with Python](#data)
+4. [Color in Data Visualization](#color)
+5. [Additional Resources](#Resources)
 
 <a name="review"/>
 
@@ -28,6 +27,8 @@ For more background in developing foundational coding and data science skills pl
          width=450">
 
 <a name="jupyter"/>
+
+For a review of the second half of the workshop, on plotting in Python with the `seaborn` and `plotly` libraries review the [Data Visualization in Python with Seaborn and Plotly Jupyter Notebook](https://github.com/pete-lawson/tulane-python-data-visualization-workshop/blob/master/data-visualization-in-python-with-seaborn-and-plotly.ipynb) in this Github repository. You can also download the notebook for use on your own computer. 
 
 ## Jupyter Notebook Resources 
 The [Jupter Notebook](https://jupyter.org/index.html) is a an open-source, web-based application that can be run locally, or shared online, and allows you to create and share documents (notebooks) that contain live code, visualizations, narrative text, and mathematical equations. They provide a wonderful way of documenting and sharing your research with the world. 
