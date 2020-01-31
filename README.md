@@ -51,9 +51,14 @@ To install RISE run `conda install -c conda-forge rise`. You may notice some add
 
 ## Color in Data Visualization
 
-The essential tool for selecting color maps is [ColorBrewer](http://www.colorbrewer2.org)
+The role of color in data visualization is profound. Choosing the right colors for your data visualization is essential. Some considerations for appropriate color choice include accessibility (ensuring colors are distinguishable, even to those with colorblindness), perceptual uniformity, and format (will the colors be differentiable even when printed in grayscale).  
+
+Stephen Few offers an excellent guide on for choosing colors for data visualizations: [Practical Rules for Using Color in Charts](http://www.perceptualedge.com/articles/visual_business_intelligence/rules_for_using_color.pdf)
+
+Arguably the most popular color palette generator is [ColorBrewer](http://www.colorbrewer2.org). ColorBrewer allows for the creation of colorblind safe, print friendly safe, and photocopy safe color palettes so your data visualizations will be accessible and usable to your entire audience. 
 
 [![Color Brewer](ColorBrewer.png)](http://www.colorbrewer2.org)
 
+When working in scalar fields, especially 
 ### Choosing the right colormap for visualization
 [![Color Advice](https://www.kennethmoreland.com/color-advice/smooth-cool-warm/smooth-cool-warm-3d.png)](https://www.kennethmoreland.com/color-advice/)
