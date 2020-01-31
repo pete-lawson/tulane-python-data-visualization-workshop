@@ -88,4 +88,5 @@ The classic book on data visualization, sometimes polarizing and opinionated, bu
 
 __Visualizing Data - William Cleveland__ 
 A rigorous text on graphical methods for the display of statistical information. This book is a must read for any scientist attempting to effectively and accurately communicate data using visualizations.
-![Visualizing Data](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/9634/9780963488404.jpg)
+
+<img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/9634/9780963488404.jpg" alt="Visualizing Data" width=200></src>
