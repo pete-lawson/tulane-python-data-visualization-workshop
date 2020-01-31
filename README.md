@@ -10,9 +10,8 @@ Workshop materials and data visualization resources for the __Introduction to Py
 
 1. [Workshop Review](#review)
 2. [Jupyter Notebook Resources](#jupyter)
-3. [Gathering and processing data with Python](#data)
 4. [Color in Data Visualization](#color)
-5. [Additional Resources](#Resources)
+5. [Additional Resources](#resources)
 
 <a name="review"/>
 
@@ -49,6 +48,7 @@ Jupyter is extensible, that is you can add extensions to it in order to enhance 
 #### Installing RISE
 To install RISE run `conda install -c conda-forge rise`. You may notice some additonal commands then the normal `conda install some-package`. This is because the extension we want to install (RISE) is not an offical extension, but instead developed by the community. To install extensions developed by the community we need to specify the community built distribution channel `conda-forge` using the `-c` argument to indicate that we are using an alternative package channel. Once installed, to enable RISE mode while in a running Jupyter Notebook instance use the keyboard shortcut `Alt-r`. 
 
+<a name="color"/>
 ## Color in Data Visualization
 
 The role of color in data visualization is profound. Choosing the right colors for your data visualization is essential. Some considerations for appropriate color choice include accessibility (ensuring colors are distinguishable, even to those with colorblindness), perceptual uniformity, and format (will the colors be differentiable even when printed in grayscale).  
@@ -66,3 +66,6 @@ Kenneth Moreland, PhD at Sandia National Laboratories, offers some useful advice
 [Color Map Advice for Scientific Visualization](https://www.kennethmoreland.com/color-advice/)
 
 [![Color Advice](https://www.kennethmoreland.com/color-advice/smooth-cool-warm/smooth-cool-warm-3d.png)](https://www.kennethmoreland.com/color-advice/)
+
+<a name="resources"/>
+## Additional Data Visualization Resources
