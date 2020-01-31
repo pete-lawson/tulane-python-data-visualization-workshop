@@ -71,3 +71,9 @@ Kenneth Moreland, PhD at Sandia National Laboratories, offers some useful advice
 <a name="resources"/>
 
 ## Additional Data Visualization Resources
+
+### Websites
+
+A library of data visualization types. Sometimes you just need inspiration: [Data Viz Project](https://datavizproject.com/)
+
+### Books
