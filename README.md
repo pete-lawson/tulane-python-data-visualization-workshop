@@ -82,7 +82,8 @@ A library of data visualization types. Sometimes you just need inspiration: [Dat
 
 __The Visual Display of Quantitative Information - Edward Tufte__ 
 The classic book on data visualization, sometimes polarizing and opinionated, but a classic nonetheless and worth reading.
-![The Visual Display of Quantitative Information](https://images-na.ssl-images-amazon.com/images/I/41IXJO4Mk6L.jpg)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/41IXJO4Mk6L.jpg" alt="The Visual Display of Quantitative Information" width=200></src>
 
 
 __Visualizing Data - William Cleveland__ 
