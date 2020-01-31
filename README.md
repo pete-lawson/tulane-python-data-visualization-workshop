@@ -59,6 +59,10 @@ Arguably the most popular color palette generator is [ColorBrewer](http://www.co
 
 [![Color Brewer](ColorBrewer.png)](http://www.colorbrewer2.org)
 
-When working in scalar fields, especially 
-### Choosing the right colormap for visualization
+When working in scientific visualization, pseudocoloring 2D and 3D scalar fields, such as a topographical surface map, choice of color map is important. Color maps should change uniformly in brightness to indicate changes in value. The perceptual changes in commonly used color maps however, such as the rainbow color map ubiquitous in Matlab, do not abide by these rules. This leads to misleading interpretations of scientific figures. 
+
+Kenneth Moreland, PhD at Sandia National Laboratories, offers some useful advice on choosing the appropriate color map for your scientific visualization: 
+
+[Color Map Advice for Scientific Visualization](kennethmoreland.com/color-advice/)
+
 [![Color Advice](https://www.kennethmoreland.com/color-advice/smooth-cool-warm/smooth-cool-warm-3d.png)](https://www.kennethmoreland.com/color-advice/)
